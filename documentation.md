@@ -14,7 +14,7 @@ Roll-up Report shows how much work sits under each epic or parent issue: issue c
 2. Pick **Group by**: Epic / parent, Assignee, Status or Issue type.
 3. Select **Run**. Columns can be sorted, and the last row is the total.
 
-On a dashboard, the gadget shows a compact set of columns (issues, done %, points, logged and remaining hours) so it fits a narrow column.
+On a dashboard, the gadget shows a compact set of columns (issues, done %, points and logged hours) so it fits a narrow column.
 
 ## How totals work
 - **Epic / parent:** each issue rolls up to its top-most ancestor in the results. Sub-tasks roll into stories and stories roll into epics. If an issue's epic isn't matched by your JQL, the issue still groups under that epic's key.
