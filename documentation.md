@@ -28,4 +28,4 @@ On a dashboard, the gadget shows a compact set of columns (issues, done %, point
 The app only reads Jira data (scopes `read:jira-work` and `read:jira-user`), and always as the person viewing the report. Nobody sees issues they couldn't already see in Jira.
 
 ## Support
-Use the support contact on the app's Atlassian Marketplace listing. We aim to reply within 2 business days.
+Email support@lintra.cloud. We aim to reply within 2 business days.

@@ -5,7 +5,7 @@ title: Privacy Policy
 
 _Last updated: 2026-10-15_
 
-Roll-up Report for Jira ("the app") is published by the partner named on its Atlassian Marketplace listing ("we").
+Roll-up Report for Jira ("the app") is published by Lintra ("we").
 
 ## What the app does with your data
 - The app reads Jira issues **as the signed-in user**, using that user's own Jira permissions. It reads only the fields it needs: summary, issue type, status, assignee name, parent, story points, original estimate, time spent and remaining estimate.
@@ -21,4 +21,4 @@ Assignee display names are shown in reports while you view them and are never st
 Atlassian (Forge hosting) is the only one. See [Atlassian's privacy policy](https://www.atlassian.com/legal/privacy-policy).
 
 ## Contact
-Questions or requests: use the support contact on the app's Atlassian Marketplace listing.
+Questions or requests: support@lintra.cloud
