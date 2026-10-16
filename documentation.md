@@ -22,7 +22,7 @@ On a dashboard, the gadget shows a compact set of columns (issues, done %, point
 - **Done** means the issue's status is in the Done category.
 - **Points** come from the site's "Story Points" or "Story point estimate" field.
 - **Hours** come from Jira time tracking: original estimate, time spent (logged work) and remaining estimate.
-- Reports cover up to 2,000 issues. If there are more, a warning appears; narrow the JQL to get complete totals.
+- Reports cover up to 2,000 issues. If there are more, or the site is slow to answer, the report shows the issues it reached with a warning; narrow the JQL to get complete totals.
 
 ## Permissions
 The app only reads Jira data (scopes `read:jira-work` and `read:jira-user`), and always as the person viewing the report. Nobody sees issues they couldn't already see in Jira.
